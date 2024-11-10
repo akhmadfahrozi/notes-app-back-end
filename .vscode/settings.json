@@ -1,0 +1,8 @@
+{
+    "editor.cursorSurroundingLines": 0,
+"editor.renderWhitespace": "boundary",
+"editor.lineNumbers": "on",
+"editor.renderControlCharacters": true,
+"editor.detectIndentation": true
+
+}
